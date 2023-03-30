@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3380208333333333" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg0.xml" value="0.32592592592592595" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg1.xml" value="0.32592592592592595" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg2.xml" value="0.32592592592592595" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg3.xml" value="0.32592592592592595" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg4.xml" value="0.32592592592592595" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg5.xml" value="0.32592592592592595" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/activity_main.xml" value="0.3177083333333333" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/activity_result.xml" value="0.2" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/item_plate_gongge_6_big.xml" value="0.5" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/item_plate_gongge_small.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
