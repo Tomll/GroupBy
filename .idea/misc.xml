@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3380208333333333" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.31666666666666665" />
         <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg0.xml" value="0.32592592592592595" />
         <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg1.xml" value="0.32592592592592595" />
         <entry key="..\:/workspace/GroupBy/app/src/main/res/drawable/shap_gongge6_big_bg2.xml" value="0.32592592592592595" />
@@ -15,6 +16,8 @@
         <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/activity_second.xml" value="0.25" />
         <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/item_plate_gongge_6_big.xml" value="0.5" />
         <entry key="..\:/workspace/GroupBy/app/src/main/res/layout/item_plate_gongge_small.xml" value="0.5" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.31666666666666665" />
+        <entry key="..\:/workspace/GroupBy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.31666666666666665" />
       </map>
     </option>
   </component>
