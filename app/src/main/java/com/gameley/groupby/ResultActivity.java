@@ -93,6 +93,7 @@ public class ResultActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        autoViewPager.setCurrentItem((int)(Math.random()*8));//首页图随机
         autoViewPager.start();
     }
 

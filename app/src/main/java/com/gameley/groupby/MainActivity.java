@@ -118,9 +118,10 @@ public class MainActivity extends AppCompatActivity {
             if ((str.contains("房啓钧") && str.contains("王金强"))
                     || (str.contains("房啓钧") && str.contains("岳春霖"))
                     || (str.contains("王金强") && str.contains("岳春霖"))
-                    || (str.contains("赵瑞宏") && str.contains("王骞"))) {
-                //20ms后,重新分组
-                handler.postDelayed(this::doGroupBy, 20);
+                    || (str.contains("赵瑞宏") && str.contains("王骞"))
+                    || (str.contains("欧燕") && str.contains("岳春霖"))) {
+                //10ms后,重新分组
+                handler.postDelayed(this::doGroupBy, 10);
                 return;
             }
             resultNameList.add(str);
